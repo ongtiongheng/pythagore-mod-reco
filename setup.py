@@ -29,5 +29,5 @@ setup(
     packages=["pythagore_modreco"],
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
-    python_requires=">=3.8",
+    python_requires=">=3.7.13",
 )

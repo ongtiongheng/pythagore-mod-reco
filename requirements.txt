@@ -1,6 +1,5 @@
-h5py
-jupyterlab
-matplotlib
-numpy
-setuptools
-tensorflow
+h5py >= 3.1.0
+matplotlib >= 3.2.2
+numpy >= 1.21.6
+setuptools >= 57.4.0
+tensorflow >= 2.8.0

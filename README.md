@@ -1,4 +1,4 @@
-# pythagore-mod-reco
+# [Modified by Ong Tiong Heng to work with Google Colab on Python 3.7] pythagore-mod-reco
 Modulation recognition AI algorithms benchmark.\
 This project contains a Jupyter Notebook for the interactive benchmark, deep learning networks and a few utility functions gathered into a package.
 
@@ -93,3 +93,6 @@ archivePrefix = {arXiv},
 ## License
 
 - This repository is licensed under the terms of the MIT License (see the file LICENSE).
+
+## Adding RFML
+https://github.com/ongtiongheng/rfml/tree/master/rfml here
